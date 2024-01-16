@@ -1,0 +1,26 @@
+# Dirsearch started Sun Jan 14 18:35:15 2024 as: /opt/homebrew/bin/dirsearch -u https://www.golfstation.net -x 429
+
+302     0B   https://www.golfstation.net/%2e%2e//google.com    -> REDIRECTS TO: https://www.golfstation.net//google.com
+404     3KB  https://www.golfstation.net/php.old
+404     3KB  https://www.golfstation.net/js
+302     0B   https://www.golfstation.net/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd    -> REDIRECTS TO: https://www.golfstation.net/etc/passwd
+404     3KB  https://www.golfstation.net/.analysis_options
+404     3KB  https://www.golfstation.net/.angular-cli.json
+404     3KB  https://www.golfstation.net/.axd
+404     3KB  https://www.golfstation.net/.aws/credentials
+404     3KB  https://www.golfstation.net/.bundle/
+404     3KB  https://www.golfstation.net/.byebug_history
+404     3KB  https://www.golfstation.net/.chef/config.rb
+404     3KB  https://www.golfstation.net/.checkignore
+404     3KB  https://www.golfstation.net/.config.inc.php.swp
+404     3KB  https://www.golfstation.net/.config/gcloud/access_tokens.db
+404     3KB  https://www.golfstation.net/.csi
+404     3KB  https://www.golfstation.net/.csscomb.json
+404     3KB  https://www.golfstation.net/.docker
+404     3KB  https://www.golfstation.net/.dropbox.cache
+404     3KB  https://www.golfstation.net/.env.development.sample
+404     3KB  https://www.golfstation.net/.ensime_lucene/
+404     3KB  https://www.golfstation.net/.eslintrc
+404     3KB  https://www.golfstation.net/.eslintignore
+404     3KB  https://www.golfstation.net/.fontcustom-manifest.json
+404     3KB  https://www.golfstation.net/.foodcritic

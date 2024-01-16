@@ -1,0 +1,10 @@
+# Dirsearch started Sun Jan 14 18:36:25 2024 as: /opt/homebrew/bin/dirsearch -u https://www.golfstation.net -x 429,404
+
+302     0B   https://www.golfstation.net/%2e%2e//google.com    -> REDIRECTS TO: https://www.golfstation.net//google.com
+302     0B   https://www.golfstation.net/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd    -> REDIRECTS TO: https://www.golfstation.net/etc/passwd
+301     0B   https://www.golfstation.net/+CSCOT+/oem    -> REDIRECTS TO: https://www.golfstation.net/-CSCOT/oem
+301     0B   https://www.golfstation.net/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../    -> REDIRECTS TO: https://www.golfstation.net/-CSCOT/translation-table?type=mst&textdomain=%2F%2BCSCOE%2B%2Fportal_inc.lua&default-language=&lang=..%2F
+200   624KB  https://www.golfstation.net/account/login.php
+302     0B   https://www.golfstation.net/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd    -> REDIRECTS TO: https://www.golfstation.net/etc/passwd
+301     0B   https://www.golfstation.net/New%20Folder    -> REDIRECTS TO: https://www.golfstation.net/New-Folder
+403     9B   https://www.golfstation.net/sites/all/libraries/README.txt
